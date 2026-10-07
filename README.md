@@ -14,11 +14,11 @@
 
 ## Featured projects
 
-| Project | What it does | Technologies |
+| Project | What the code does | Technologies |
 | --- | --- | --- |
-| [LLM Resume Screener Red-Team](https://github.com/mahirshah2408/llm-resume-screener-redteam) | Tests an LLM resume screener for prompt injection, bias, inconsistency, and hallucination risk | Python, Streamlit, OpenAI/Ollama |
-| [Bank Customer Churn Prediction](https://github.com/mahirshah2408/Bank_Customer_Chrun_Prediction-main) | Explores customer churn prediction with feature engineering and model evaluation | Python, Jupyter, Machine Learning |
-| [The Movie Cinema](https://github.com/mahirshah2408/The-Movie-Cinema-master) | A movie discovery app with recommendations and review sentiment analysis | Flask, HTML, CSS, JavaScript |
+| [LLM Resume Screener Red-Team](https://github.com/mahirshah2408/llm-resume-screener-redteam) | Runs standard and hardened resume screening against tests for prompt injection, name-based score variation, consistency, and hallucination risk | Python, Streamlit, OpenAI/Ollama |
+| [Bank Customer Churn Prediction](https://github.com/mahirshah2408/Bank_Customer_Chrun_Prediction-main) | Preprocesses bank data with encoding, SMOTE, and scaling, then compares seven classification models | Python, scikit-learn, XGBoost, Jupyter |
+| [The Movie Cinema](https://github.com/mahirshah2408/The-Movie-Cinema-master) | An adapted Flask movie app using TMDB recommendations, IMDb review scraping, and sentiment classification | Flask, Python, JavaScript, scikit-learn |
 
 ## Technical toolkit
 
