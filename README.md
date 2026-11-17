@@ -18,9 +18,7 @@
 | --- | --- | --- |
 | [LLM Resume Screener Red-Team](https://github.com/mahirshah2408/llm-resume-screener-redteam) | Runs standard and hardened resume screening against tests for prompt injection, name-based score variation, consistency, and hallucination risk | Python, Streamlit, OpenAI/Ollama |
 | [Bank Customer Churn Prediction](https://github.com/mahirshah2408/Bank_Customer_Chrun_Prediction-main) | Preprocesses bank data with encoding, SMOTE, and scaling, then compares seven classification models | Python, scikit-learn, XGBoost, Jupyter |
-| [The Movie Cinema](https://github.com/mahirshah2408/The-Movie-Cinema-master) | An adapted Flask movie app using TMDB recommendations, IMDb review scraping, and sentiment classification | Flask, Python, JavaScript, scikit-learn |
-
-## Technical toolkit
+| [The Mov| [Dojo](https://github.com/mahirshah2408/dojo) | Codex solution tournaments that preserve useful ideas from eliminated answers and review optional improvements against the original; adapted from Arena | Python, Codex, agent orchestration |cal toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
